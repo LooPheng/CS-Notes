@@ -422,6 +422,8 @@ ArrayList 基于动态数组实现，LinkedList 基于双向链表实现。Array
 ## HashMap
 
 为了便于理解，以下源码分析以 JDK 1.7 为主。
+[Java 8系列之重新认识HashMap](https://tech.meituan.com/2016/06/24/java-hashmap.html)
+[HashMap 相关面试题及其解答](https://www.jianshu.com/p/75adf47958a7)
 
 ### 1. 存储结构
 
